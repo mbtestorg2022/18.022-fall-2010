@@ -31,16 +31,16 @@ SOLUTION FILES
 
 Practice exam ([PDF]({{< baseurl >}}/resources/mit18_022f10_pra_1t))
 
-Exam (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_022f10_exam_1))
+Exam ([PDF]({{< baseurl >}}/resources/mit18_022f10_exam_1))
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Practice exam solution (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_022f10_pra_1_model))
+Practice exam solution ([PDF]({{< baseurl >}}/resources/mit18_022f10_pra_1_model))
 
-Exam solution (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_022f10_mid_1_model))
+Exam solution ([PDF]({{< baseurl >}}/resources/mit18_022f10_mid_1_model))
 
 
 {{< tdclose >}}
@@ -55,16 +55,16 @@ Exam solution (![This resource may not render correctly in a screen reader.](/im
 
 Practice exam ([PDF]({{< baseurl >}}/resources/mit18_022f10_pra_2t))
 
-Exam (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_022f10_exam_2))
+Exam ([PDF]({{< baseurl >}}/resources/mit18_022f10_exam_2))
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Practice exam solution (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.1MB]({{< baseurl >}}/resources/mit18_022f10_pra_2_model))
+Practice exam solution ([PDF - 1.1MB]({{< baseurl >}}/resources/mit18_022f10_pra_2_model))
 
-Exam solution (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.0MB]({{< baseurl >}}/resources/mit18_022f10_mid_2_model))
+Exam solution ([PDF - 1.0MB]({{< baseurl >}}/resources/mit18_022f10_mid_2_model))
 
 
 {{< tdclose >}}
@@ -79,16 +79,16 @@ Exam solution (![This resource may not render correctly in a screen reader.](/im
 
 Practice exam ([PDF]({{< baseurl >}}/resources/mit18_022f10_pra_3t))
 
-Exam (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_022f10_exam_3))
+Exam ([PDF]({{< baseurl >}}/resources/mit18_022f10_exam_3))
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Practice exam solution (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_022f10_pra_3_model))
+Practice exam solution ([PDF]({{< baseurl >}}/resources/mit18_022f10_pra_3_model))
 
-Exam solution (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_022f10_mid_3_model))
+Exam solution ([PDF]({{< baseurl >}}/resources/mit18_022f10_mid_3_model))
 
 
 {{< tdclose >}}
@@ -103,16 +103,16 @@ Exam solution (![This resource may not render correctly in a screen reader.](/im
 
 Practice final exam ([PDF]({{< baseurl >}}/resources/mit18_022f10_prft))
 
-Final exam (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3]({{< baseurl >}}/resources/mit18_022f10_fin_exam))
+Final exam ([PDF - 1.3]({{< baseurl >}}/resources/mit18_022f10_fin_exam))
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Practice final exam solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.6MB]({{< baseurl >}}/resources/mit18_022f10_prf_model))
+Practice final exam solutions ([PDF - 1.6MB]({{< baseurl >}}/resources/mit18_022f10_prf_model))
 
-Final exam solutions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.7MB]({{< baseurl >}}/resources/mit18_022f10_fin_model))
+Final exam solutions ([PDF - 1.7MB]({{< baseurl >}}/resources/mit18_022f10_fin_model))
 
 
 {{< tdclose >}}
