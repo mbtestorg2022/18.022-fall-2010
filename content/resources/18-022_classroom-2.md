@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 9f635961-2080-a7da-c78c-40b7d8b1c98c
 resourcetype: Image
 title: 18-022_classroom-2.jpg
 uid: 10650621-c5f9-3d00-1603-175fff9fb38f

@@ -10,7 +10,7 @@ Course Overview
 
 This page focuses on the course _18.022 Calculus of Several Variables_ as it was taught by Prof. James McKernan in Fall 2010.
 
-This is a course in multivariable calculus, with more focus on mathematical concepts than [_18.02 Multivariable Calculus_](/courses/18-02sc-multivariable-calculus-fall-2010/).
+This is a course in multivariable calculus, with more focus on mathematical concepts than [_18.02 Multivariable Calculus_](/courses/18-02sc-multivariable-calculus-fall-2010).
 
 Course Outcomes
 ---------------
@@ -28,8 +28,8 @@ Calculus I GIR ![](/images/educator/icon-question-gir.png)
 
 Any of the following courses at MIT will prepare you for 18.022:
 
-*   [_18.01 Calculus_](/courses/18-01sc-single-variable-calculus-fall-2010/)
-*   [_18.014 Calculus with Theory_](/courses/18-014-calculus-with-theory-fall-2010/)
+*   [_18.01 Calculus_](/courses/18-01sc-single-variable-calculus-fall-2010)
+*   [_18.014 Calculus with Theory_](/courses/18-014-calculus-with-theory-fall-2010)
 *   [_18.01A Calculus_](http://student.mit.edu/catalog/m18a.html#18.01A)
 *   [_CC.181A Calculus_](http://student.mit.edu/catalog/mCCa.html#CC.181A)
 *   [_ES.1801 Calculus_](http://student.mit.edu/catalog/mESa.html#ES.1801)
@@ -91,7 +91,7 @@ Student Information
 
 ### Enrollment
 
-This course is significantly smaller than [18.02](/courses/18-02sc-multivariable-calculus-fall-2010/), which usually has close to 500 students.
+This course is significantly smaller than [18.02](/courses/18-02sc-multivariable-calculus-fall-2010), which usually has close to 500 students.
 
 ### Breakdown by Year
 
@@ -99,7 +99,7 @@ This is intended mainly as a course for freshmen.
 
 ### Typical Student Background
 
-*   Most MIT students will take [18.02](/courses/18-02sc-multivariable-calculus-fall-2010/), which emphasizes applications of calculus to the sciences (especially physics).
+*   Most MIT students will take [18.02](/courses/18-02sc-multivariable-calculus-fall-2010), which emphasizes applications of calculus to the sciences (especially physics).
 *   This course, 18.022, is geared to students who have a more theoretical interest in multivariable calculus, perhaps because they are interested in majoring in mathematics.
 *   Some students may have seen calculus in high school and want to take a more challenging class.
 
